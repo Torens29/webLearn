@@ -1,0 +1,31 @@
+body{
+	padding: 60px;
+
+}
+a.button{
+	border: solid 1px black;
+	background-color: gray;
+	padding: 4px;
+	border-radius: 10px;
+	text-decoration: none;
+	margin-top: 10px;
+}
+a.button:hover{ 
+	border: solid 1px black;
+	background-color: green;
+	padding: 4px;
+	border-radius: 10px;
+	text-decoration: none;
+}
+ul.nav{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+
+}
+ul.nav a{
+	display:block;
+	width: 100px;
+	background-color: green;
+	line-height: 20px;
+}
